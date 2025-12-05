@@ -24,6 +24,9 @@
 | **4:30–6:00 PM** | **Implementation Science: Moving the Needle in Epilepsy Care** |
 | **4:30–6:00 PM** | **SIG: Epilepsy Education – EEG Competence for Neurology Residents: How Is It Assessed and What’s Next?** |
 
+### 🎪 **Poster Presentations (12:15 PM – 2:00 PM)**
+- **Poster 1.15** - *Feasibility of implementation of an age-based guideline for PCPC scoring*
+
 ---
 
 ## **Sunday · December 7**
@@ -35,9 +38,8 @@
 | **2:00–3:30 PM** | **Seizure Stopping Mechanisms and Networks** |
 | **4:00–5:30 PM** | **Health Disparities – Epilepsy in Rural Communities: Improving Access to Care** *(Dr. Lindsey Morgan)* |
 
-### 🎪 **Poster Presentations (Times TBD)**
+### 🎪 **Poster Presentations (12:00 PM – 2:00 PM)**
 - **Poster 2.172** – *Development of a multicenter EEG research consortium and data platform to advance Pediatric Quantitative EEG Research*  
-- *Feasibility of implementation of an age-based guideline for PCPC scoring*
 
 ---
 
